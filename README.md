@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/yawar hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yawar hussain" height="30" width="40" /></a>
 <a href="https://kaggle.com/yawarhussain786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yawarhussain786" height="30" width="40" /></a>
 <a href="https://fb.com/sahil khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahil khan" height="30" width="40" /></a>
-<a href="https://instagram.com/itzz_s4hil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzz_s4hil" height="30" width="40" /></a>
+<a href="https://instagram.com/drx.sxhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzz_s4hil" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yawar hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yawar hussain" height="30" width="40" /></a>
 </p>
 

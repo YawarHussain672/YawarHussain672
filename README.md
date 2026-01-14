@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/yawarhussain672" target="blank"><img src="https://img.shields.io/twitter/follow/yawarhussain672?logo=twitter&style=for-the-badge" alt="yawarhussain672" /></a> </p>
 
-- 🔭 I’m currently working on **BitTree**
+- 🔭 I’m currently working on **Sales Analysis**
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **MERN**
 

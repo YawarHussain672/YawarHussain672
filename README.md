@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/yawarhussain672" target="blank"><img src="https://img.shields.io/twitter/follow/yawarhussain672?logo=twitter&style=for-the-badge" alt="yawarhussain672" /></a> </p>
 
-- 🔭 I’m currently working on **Sales Analysis**
+- 🔭 I’m currently working on **Sales Analysis using Python (Pandas, Matplotlib) to derive business insights**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science with real-world datasets and ML fundamentals**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN Stack, JavaScript, and Data Analysis**
 
 - 📫 How to reach me **hussainyawar672@gmail.com**
 
